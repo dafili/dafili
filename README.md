@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/350150651?v=4" width="120" alt="dafili" />
+<img src="https://raw.githubusercontent.com/dafili/dafili/main/assets/banner.jpg" alt="Renhua Wei — homelab desk: code, books, and the rack the tools are tested on" width="100%" />
 
 # Renhua Wei · `dafili`
 
