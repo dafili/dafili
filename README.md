@@ -12,7 +12,7 @@ Independent developer · Sichuan, China
 [![NPILift](https://img.shields.io/badge/NPILift-B2B%20data-5f3dc4?style=flat-square)](https://npilift.dafili.cn)
 [![Dev.to](https://img.shields.io/badge/Dev.to-dafili-0a0a0a?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/dafili)
 [![Hashnode](https://img.shields.io/badge/Hashnode-blog-2962ff?style=flat-square&logo=hashnode&logoColor=white)](https://mediaforge-studio.hashnode.dev)
-[![Email](https://img.shields.io/badge/Email-renhua.wei%40zohomail.com-c92a2a?style=flat-square&logo=maildotru&logoColor=white)](mailto:renhua.wei@zohomail.com)
+[![Email](https://img.shields.io/badge/Email-support%40dafili.cn-c92a2a?style=flat-square&logo=maildotru&logoColor=white)](mailto:support@dafili.cn)
 
 </div>
 
